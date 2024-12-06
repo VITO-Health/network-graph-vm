@@ -2,6 +2,8 @@
 
 This repository contains a Vagrant configuration to set up a virtual machine (VM) with Ubuntu, XFCE desktop environment, and software for network graph - Cytoscape, Gephi  etc. This VM can be used for bioinformatics and network visualization tasks.
 
+Optionally it can install these free tools: OpenModelica, GPT4All
+
 ## Prerequisites
 
 Before starting, ensure you have the following installed on your host machine:
